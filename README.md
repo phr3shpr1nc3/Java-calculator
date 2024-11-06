@@ -2,7 +2,7 @@
 
 ![Java Calculator](/src/Caluclator.JPG)
 
-Welcome to the Java Calculator project! This project was inspired by the Brototype YouTube channel's "100K CODING CHALLENGE". The goal of this project is to create a simple yet powerful calculator application using Java.
+Welcome to the Java Calculator project! The goal of this project is to create a simple yet powerful calculator application using Java.
 
 ## Project Description
 
